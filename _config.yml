@@ -234,7 +234,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: http://wx4.sinaimg.cn/mw690/bc9cb96aly8ftm9hrll0yj20e80e8jsc.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -275,7 +275,7 @@ sidebar:
   offset_float: 0
 
   # Back to top in sidebar
-  b2t: false
+  b2t: true
 
   # Scroll percent label in b2t button
   scrollpercent: false

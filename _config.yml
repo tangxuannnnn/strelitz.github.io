@@ -87,7 +87,7 @@ keywords: "Strelitz, Audio"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2018
 
 # icon between year and author @Footer
 authoricon: heart
@@ -494,7 +494,10 @@ rating:
   id:     #<app_id>
   color:  fc6423
 
-
+#打赏功能
+reward_comment: 你的鼓励是我前进的动力
+wechatpay: https://ws1.sinaimg.cn/large/bc9cb96aly1fwqd9zogw0j20jd0jgq50.jpg
+alipay: https://ws1.sinaimg.cn/large/bc9cb96aly1fwqdbmyjb8j208v08tq3r.jpg
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:

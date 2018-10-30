@@ -496,8 +496,8 @@ rating:
 
 #打赏功能
 reward_comment: 你的鼓励是我前进的动力
-wechatpay: https://ws1.sinaimg.cn/large/bc9cb96aly1fwqd9zogw0j20jd0jgq50.jpg
-alipay: https://ws1.sinaimg.cn/large/bc9cb96aly1fwqdbmyjb8j208v08tq3r.jpg
+wechatpay: https://ws1.sinaimg.cn/large/bc9cb96aly1fwqd9zogw0j20jd0jgq50.jpg height="200" width="200"
+alipay: https://ws1.sinaimg.cn/large/bc9cb96aly1fwqdbmyjb8j208v08tq3r.jpg height="200" width="200"
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:

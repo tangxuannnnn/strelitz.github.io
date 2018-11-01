@@ -1,13 +1,14 @@
 ---
 title: 梦想的声音总串出带修改
 description: 这是在制作梦想的声音节目中修改终混师工程与视频输出合作的教程
-categories:
+categories: 
  - 梦想的声音
  - 知识
- tags: 
+tags: 
  - 梦想的声音
  - Protools
  - 综艺节目制作流程
+
 ---
 
 # 梦想的声音总串出带修改
